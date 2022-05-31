@@ -1,3 +1,6 @@
 [submodule "0x02-shell_redirections/0x02-shell_redirections/alx-system_engineering-devops"]
 	path = 0x02-shell_redirections/0x02-shell_redirections/alx-system_engineering-devops
 	url = https://github.com/Asmaalamin93/alx-system_engineering-devops
+[submodule "0x03-shell_variables_expansions/0x03-shell_variables_expansions/alx-system_engineering-devops"]
+	path = 0x03-shell_variables_expansions/0x03-shell_variables_expansions/alx-system_engineering-devops
+	url = https://github.com/Asmaalamin93/alx-system_engineering-devops
